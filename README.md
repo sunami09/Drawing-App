@@ -1,6 +1,8 @@
 # Drawing App
 A simple drawing application built with HTML, CSS, and JavaScript.
 
+# Deployment
+- [LIVE](https://muggledraws.netlify.app/)
 ## Features
 Ability to draw using a mouse or touch-enabled devices
 Select from a variety of brush sizes and colors
